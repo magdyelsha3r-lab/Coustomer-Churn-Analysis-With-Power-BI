@@ -1,7 +1,4 @@
-بالتأكيد. إليك ملف الـ `README` المقترح باللغة الإنجليزية، بناءً على تحليل تسرب العملاء الذي قدمته:
-
-# README: Customer Churn Analysis with Power BI
-
+ب
 ## 📊 Project Overview
 
 This project provides a comprehensive analysis of customer churn (attrition rate) to identify the key reasons behind customer departures and offer actionable insights. **Power BI** was utilized to visualize the data and create an interactive dashboard that highlights major trends, churn distribution across categories, demographics, and account factors.
@@ -47,6 +44,7 @@ Based on the findings, the following recommendations are suggested to mitigate c
 
 ## 🔗 Power BI Dashboard
 
-The Power BI report file containing the detailed visualizations is included:
-* `Customer churn analysis with Power Bi_251021_154557.pdf` (Visual Report PDF)
-* *Note: The interactive PBIX file is not included here but would typically be the primary asset for a live project.*
+<img width="1377" height="757" alt="Screenshot 2025-10-20 234253" src="https://github.com/user-attachments/assets/80aa9028-63c4-4a69-b398-dc837e082643" />
+<img width="1372" height="752" alt="Screenshot 2025-10-20 235836" src="https://github.com/user-attachments/assets/bf2c13c3-c04a-4589-8890-7e7139ae648e" />
+<img width="1367" height="757" alt="Screenshot 2025-10-20 234633" src="https://github.com/user-attachments/assets/870a25f1-b502-4761-875c-215bc728576b" />
+<img width="1378" height="760" alt="Screenshot 2025-10-20 234604" src="https://github.com/user-attachments/assets/808f53c4-238e-4513-8e71-b9f943a4264b" />
